@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いますぐ輪廻 (Cover)",
+  "base_artist": "nyamura",
+  "createdAt": "2026-02-19T07:05:34.980049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いますぐ輪廻",
+      "artist": "Nakiso",
+      "has_synced": false,
+      "path": "select/01_いますぐ輪廻_Nakiso.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いますぐ輪廻 (Cover)",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_いますぐ輪廻_(Cover)_nyamura.txt"
+    }
+  ]
+}
